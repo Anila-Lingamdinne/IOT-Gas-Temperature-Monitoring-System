@@ -1,0 +1,17 @@
+# Keil files
+*.axf
+*.hex
+*.o
+*.d
+*.lst
+
+# Project settings
+*.uvproj*
+*.uvopt*
+
+# Backup files
+*.bak
+*.tmp
+
+# Logs
+*.log
